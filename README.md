@@ -1,4 +1,4 @@
-# Frac
+# fractals
 
 <p align="center">
   <img src="https://github.com/Vassilp/fractals/master/header.png"

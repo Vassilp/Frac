@@ -1,7 +1,7 @@
 # fractals
 
 <p align="center">
-  <img src="https://github.com/Vassilp/fractals/master/header.png"
+  <img src="https://github.com/Vassilp/fractals/blob/master/header.png"
   alt="A region of the fractal"/>
 </p>
 
